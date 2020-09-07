@@ -2,6 +2,5 @@
 .ipynb_checkpoints
 __pycache__
 
-
 # Tensorboard logs folder
 logs/
