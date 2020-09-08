@@ -18,6 +18,17 @@
     ├── display.py                          # Main File of the project
 ```
 
+## Dependencies
+* cv2
+* numpy
+* pandas
+* sklearn
+* pygame
+* matplotlib
+* tensorflow
+
+> Install all the dependencies before running the display file.
+
 ## Installation
 1. Clone the repository into a folder
 ```
